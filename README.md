@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffreyorazulike
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flask
+- 👀 I’m interested in Moblie Development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any android project
 - 📫 You can reach me through my email: chukwudumebiorazulike@gmail.com
 
