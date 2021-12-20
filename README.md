@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jeffrey, a mobile and backend developer</div>  
+### <div align="center">I'm Jeffrey, a mobile and aspiring backend developer</div>  
   
 
 - 🔭 I’m currently working on [Zuri Chat](https://github.com/zurichat) and some personal projects  
