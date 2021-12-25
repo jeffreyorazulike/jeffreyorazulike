@@ -84,6 +84,9 @@
 
 <br/>  
 
+## Coders Rank Stats 😅
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jeffreyorazulike)
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
