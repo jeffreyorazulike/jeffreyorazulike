@@ -3,26 +3,26 @@
 </div>  
   
 
-### <div align="center">I'm Jeffrey, a mobile and aspiring backend developer</div>  
+### <div align="center">I'm Jeffrey, a mobile developer</div>  
   
 
-- 🔭 I’m currently working on [Zuri Chat](https://github.com/zurichat) and some personal projects  
+- 🔭 I’m currently working on [Hoardr](https://github.com/logickoder/hoardr) and some other personal projects  
   
 
-- 🌱 I’m currently learning Flutter, Jetpack Compose and Go  
+- 🌱 I’m currently deep diving into Flutter and Jetpack Compose 
   
 
 - ❓ Ask me about anything related to Android and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces (sounded fun in my head anyways)
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
@@ -42,13 +42,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
 </td></tr></table>  
