@@ -67,7 +67,7 @@
 <br/>  
 
 ## Coders Rank Stats 😅
-![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jeffreyorazulike)
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=logickoder)
 
 
 ## Github Stats  
