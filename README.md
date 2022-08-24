@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jeffrey, a mobile developer</div>  
   
 
-- 🔭 I’m currently working on [QRPay](https://github.com/logickoder/qrpay) and some other personal projects  
+- 🔭 I’m currently working on [Synote](https://github.com/logickoder/synote) and some other personal projects  
   
 
 - 🌱 I’m currently deep diving into Flutter and Jetpack Compose 
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Android and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces (sounded fun in my head anyways)
+- ⚡ Fun fact: Uhhm...
   
 
 <br/>  
