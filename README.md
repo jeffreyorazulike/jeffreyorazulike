@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jeffrey, a mobile developer</div>  
   
 
-- 🔭 I’m currently working on [Synote](https://github.com/logickoder/synote) and some other personal projects  
+- 🔭 I’m currently working on [kNote](https://github.com/logickoder/knote) and some other personal projects  
   
 
 - 🌱 I’m currently deep diving into Flutter and Jetpack Compose 
