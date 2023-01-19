@@ -9,13 +9,10 @@
 - 🔭 I’m currently working on [kNote](https://github.com/logickoder/knote) and some other personal projects  
   
 
-- 🌱 I’m currently deep diving into Flutter and Jetpack Compose 
+- ❓ Ask me about anything related to Android, Flutter and related technologies  
   
 
-- ❓ Ask me about anything related to Android and related technologies  
-  
-
-- ⚡ Fun fact: Uhhm...
+- ⚡ Fun fact: 🤷🏾
   
 
 <br/>  
