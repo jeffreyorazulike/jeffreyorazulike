@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Jeffrey, a mobile developer</div>  
+### <div align="center">I'm Jeffery, a mobile and backend developer</div>  
   
 
-- 🔭 I’m currently working on [kNote](https://github.com/logickoder/knote) and some other personal projects  
+- 🔭 I’m currently working on some personal projects and trying to get into opensource
   
 
 - ❓ Ask me about anything related to Android, Flutter and related technologies  
   
 
-- ⚡ Fun fact: 🤷🏾
+- ⚡ Fun fact: I have none 😢
   
 
 <br/>  
