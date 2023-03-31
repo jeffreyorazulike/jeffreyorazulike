@@ -78,7 +78,9 @@
 
 </td></tr></table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logickoder&" alt="logickoder" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logickoder&" alt="logickoder" />
+</div>
 
 <br/>  
 
