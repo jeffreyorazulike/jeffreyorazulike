@@ -76,7 +76,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logickoder&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logickoder&" alt="logickoder" /></p>
 
 <br/>  
 
