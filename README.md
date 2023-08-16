@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Jeffery, a mobile and backend developer</div>  
+### <div align="center">I'm Jeffery, a Software Engineer</div>  
   
 
 - 🔭 I’m currently working on some personal projects and trying to get into opensource
