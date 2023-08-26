@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on some personal projects and trying to get into opensource<br><br>❓ Ask me about anything related to Android, Flutter and related technologies<br><br>⚡ Fun fact: I have none 😢
-
+🔭 I’m currently working on some personal projects and trying to get into open source <br><be>
+❓ Ask me about anything related to Android, Flutter and related technologies<br><be>
+⚡ Fun fact: logickoder came from the fact that I love solving logical problems relating to code
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/logickoder) 
