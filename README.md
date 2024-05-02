@@ -11,7 +11,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8384368) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/logickoder) 
 
-# Stats?
+# Coding Stats?
 <a href="https://gitroll.io/profile/uWz5RI0GQqgglpagTlpuwsfXiCs02" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWz5RI0GQqgglpagTlpuwsfXiCs02" alt="GitRoll Profile Badge"/></a>
 
 
