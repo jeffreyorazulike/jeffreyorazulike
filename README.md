@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on some personal projects and trying to get into open source <br><be>
-❓ Ask me about anything related to Android, Flutter and related technologies<br><be>
+❓ Ask me about anything related to Mobile and related technologies<br><be>
 ⚡ Fun fact: The name logickoder comes from the fact that I love solving logical problems relating to code
 
 ## 🌐 Socials:
@@ -11,8 +11,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8384368) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/logickoder) 
 
-# Coders Rank Stats 😅
-![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=logickoder)
+# Stats?
+<a href="https://gitroll.io/profile/uWz5RI0GQqgglpagTlpuwsfXiCs02" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWz5RI0GQqgglpagTlpuwsfXiCs02" alt="GitRoll Profile Badge"/></a>
 
 
 # 💻 Tech Stack:
